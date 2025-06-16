@@ -5,4 +5,4 @@ Hello! My name is Sabrina and I am currently learning Python and SQL on DataCamp
 ### Goals for this course
 Effectively gather more intel in Python for future career options and potional projects
 ### My First Python Program
-print("Hello World!")
+"Hello World!"
